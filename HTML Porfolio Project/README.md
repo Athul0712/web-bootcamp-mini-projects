@@ -1,4 +1,6 @@
-# Web Bootcamp Mini Projects
+# HTML Portfolio Project
 
-This repo contains small practice projects built during my web development bootcamp.
-- HTML Portfolio Project
+This is a **personal portfolio website** built as part of my Web Development Bootcamp. The project helped me practice **HTML** by creating a structured portfolio website.
+
+## 🛠️ Technologies Used
+- HTML5
